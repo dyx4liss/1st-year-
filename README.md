@@ -1,6 +1,6 @@
 Лабораторные Работы:
 
- 3. [Типы Данных](https://colab.research.google.com/drive/1RjhXb9rJ5YDJr-jJiwBsjP6w8ULCF5Vd#scrollTo=xqvLBnR0GJKK)
+ 3. [Типы Данных](3_lab.ipynb)
  4. [Управляющие Структуры](/lab-4-21.ipynb)
  5. [Подпрограммы]()
  6. [Вычислительная сложность алгоритмов]()
